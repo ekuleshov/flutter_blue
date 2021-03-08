@@ -12,16 +12,17 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
   convert: ^2.1.1
   protobuf: ^1.0.1
-  rxdart: ^0.24.0
+  rxdart: ^0.26.0
   collection: ^1.14.13
   meta: ^1.2.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  e2e: ^0.2.1
+  e2e: ^0.7.0+1
   flutter_driver:
     sdk: flutter
 
